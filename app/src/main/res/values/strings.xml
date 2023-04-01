@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nabung">Menabung</string>
+    <string name="tarik">Tarik Uang</string>
+    <string name="saldo">Jumlah Tabungan</string>
+    <string name="tambah">Tambah Tabungan</string>
+    <string name="nominal">Nominal Tambah Tabungan</string>
+    <string name="nominal_tarik">Nominal Tarik Tabungan</string>
+    <string name="tarik_tabungan">Tarik Tabungan</string>
+</resources>
